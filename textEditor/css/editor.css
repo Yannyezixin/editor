@@ -1,0 +1,24 @@
+body
+{
+    background-color:#ddd;
+    font-color:#000;
+}
+.content 
+{
+    margin: 50px 260px auto;
+}
+#editor
+{
+    resize:vertical;
+    overflow:auto;
+    border: 1px solid silver;
+    border-radius: ;
+    background-color:#fff;
+    min-height: 800px;
+    box-shadow: inset 0 0 5px silver;
+    padding: 1em;
+}
+#editControls {
+    text-align:center;
+    padding:5px;
+}
